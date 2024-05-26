@@ -1,0 +1,16 @@
+python-box
+pyYAML
+types-PyYAML
+joblib
+ensure
+python-box
+pandas
+numpy
+mlflow==2.2.2
+notebook
+scikit-learn
+matplotlib
+tqdm
+Flask
+Flask-Cors
+-e . # This is needed for creation as a local Project
