@@ -6,7 +6,8 @@
     4. VS Code and Terminal
 
 ## Reference Repository:
-    https://github.com/arindam-29/CICD_Wine_Quality_Prediction
+    Github: https://github.com/arindam-29/CICD_Wine_Quality_Prediction
+    Dockerhub Image: docker pull arindam29/wine-pred
 
 ## Project Setup:
     1. Create a new Repository "CICD_Wine_Quality_Prediction"
